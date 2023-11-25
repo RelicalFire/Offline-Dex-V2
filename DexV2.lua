@@ -5766,11 +5766,11 @@ Change log:
 --]]
 
 		task.wait(0.2)
-		--[[
+		
 		local print = function(s)
 			print(tostring(s))
 		end
-		]]
+		
 
 		-- Services
 		local Teams = game:GetService("Teams")
