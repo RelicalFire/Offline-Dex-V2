@@ -1,4 +1,3 @@
-function mod:LoadDex()
 	CreateGui = function()
 		local NewGuiPart1 = Instance.new("ScreenGui")
 		local NewGuiPart2 = Instance.new("Frame")
@@ -8714,4 +8713,3 @@ openScript(scr5)
 	end)
 
 	--moony
-end
